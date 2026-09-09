@@ -1,4 +1,8 @@
 {
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend run dev"
+  },
   "dependencies": {
     "pg": "^8.21.0"
   }
