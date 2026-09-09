@@ -3,3 +3,6 @@ uvicorn[standard]
 python-dotenv
 motor
 pydantic
+psycopg[binary]
+bcrypt
+email-validator
